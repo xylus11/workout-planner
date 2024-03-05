@@ -1,3 +1,9 @@
+#Workout planner
+
+![image](https://github.com/xylus11/workout-planner/assets/97844580/6728dcd7-61c2-4d19-af99-d10033c351e7)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
