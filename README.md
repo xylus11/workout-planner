@@ -1,4 +1,4 @@
-#Workout planner
+# Workout planner
 
 ![image](https://github.com/xylus11/workout-planner/assets/97844580/6728dcd7-61c2-4d19-af99-d10033c351e7)
 
